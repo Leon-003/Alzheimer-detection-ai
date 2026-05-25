@@ -181,7 +181,7 @@ The project includes a Streamlit-based web application where users can:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/alzheimer-detection-ai.git
+git clone https://github.com/Leon-003/alzheimer-detection-ai.git
 ```
 
 ---
